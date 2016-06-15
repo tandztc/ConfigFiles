@@ -4,7 +4,7 @@ set tabstop=4
 set softtabstop=4
 set expandtab
 set number
-set cursorline
+"set cursorline
 filetype indent on
 set showmatch
 set incsearch
