@@ -8,3 +8,5 @@ configuration file of popular softwares
  * 隐藏代理，不让目标网站获取真实的机器ip
 3. vim  
  * vim基本配置
+4. zsh
+ * zsh基本配置
