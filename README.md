@@ -9,4 +9,9 @@ configuration file of popular softwares
 3. vim  
  * vim基本配置
 4. zsh
- * zsh基本配置
+ * zsh基本配置  
+5. pac  
+自动代理文件存档
+ * xduotai.pac  
+xduotai提供给付费用户的pac，特点是文件小，而且站点匹配比较精确智能
+
