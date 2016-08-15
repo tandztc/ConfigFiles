@@ -1,0 +1,6 @@
+{
+  "name": "Configfiles",
+  "tagline": "configuration file of popular softwares",
+  "body": "# ConfigFiles\r\nconfiguration file of popular softwares\r\n\r\n1. lighttpd  \r\n * 简单配置\r\n * 配合php-fpm\r\n2. squid3  \r\n * 隐藏代理，不让目标网站获取真实的机器ip\r\n3. vim  \r\n * vim基本配置\r\n4. zsh\r\n * zsh基本配置  \r\n5. pac  \r\n自动代理文件存档\r\n * xduotai.pac  \r\nxduotai提供给付费用户的pac，特点是文件小，而且站点匹配比较精确智能\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
